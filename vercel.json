@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/old-page", "destination": "/new-page" }
+    ]
+  }
+  
